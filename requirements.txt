@@ -1,0 +1,8 @@
+tqdm
+transformers
+torch
+diffusers
+soundfile
+numpy
+accelerate
+torchsde
